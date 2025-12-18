@@ -11,6 +11,8 @@ This project is a high-level analytics dashboard designed to transform complex i
 
 **Purpose:** To provide a strategic overview for data-driven decision-making regarding university funding, accreditation oversight, and accessibility policies.
 
+<img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/5b1547ff-5c29-4052-8380-b9e32ebbeb8f" />
+
 ## 🚀 Key Features
 
 ### 1. 📊 National Performance Benchmarks
