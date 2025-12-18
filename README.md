@@ -1,12 +1,15 @@
-# us-education-dashboard
-An executive analytics dashboard for the US Department of Education, providing strategic insights into institutional performance, fiscal efficiency, and accessibility using Python &amp; Streamlit.
-
 # 🇺🇸 National Postsecondary Performance Matrix
 
 ### Strategic Intelligence Briefing for the Secretary of Education
 
 ## 📋 Executive Summary
-This project is a high-level analytics dashboard designed to assist the **US Secretary of Education** and policy makers. It transforms complex institutional data into actionable intelligence, focusing on graduation rates, financial accessibility, and instructional quality across public and private sectors.
+This project is a high-level analytics dashboard designed to transform complex institutional data into actionable intelligence. It focuses on graduation rates, financial accessibility, and instructional quality across public and private sectors in the US higher education system.
+
+## 🎯 Target Audience
+**Primary Stakeholder:** - **The Secretary of Education (Minister of Education)**
+- Senior Policy Advisors & Education Executives
+
+**Purpose:** To provide a strategic overview for data-driven decision-making regarding university funding, accreditation oversight, and accessibility policies.
 
 ## 🚀 Key Features
 
