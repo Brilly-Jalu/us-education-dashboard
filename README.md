@@ -36,3 +36,19 @@ This project is a high-level analytics dashboard designed to transform complex i
 - **Visualization:** Matplotlib & Seaborn
 
 ## 📂 Project Structure
+## ⚙️ How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/username/us-education-dashboard.git](https://github.com/username/us-education-dashboard.git)
+   cd us-education-dashboard
+   
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   
+3. **Clone the repository**
+   ```bash
+   streamlit run dashboard.py
+
+
