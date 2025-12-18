@@ -40,8 +40,7 @@ This project is a high-level analytics dashboard designed to transform complex i
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/username/us-education-dashboard.git](https://github.com/username/us-education-dashboard.git)
-   cd us-education-dashboard
+   https://github.com/Brilly-Jalu/us-education-dashboard.git
    
 2. **Install dependencies**
    ```bash
