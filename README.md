@@ -42,7 +42,7 @@ This project is a high-level analytics dashboard designed to transform complex i
 
 1. **Clone the repository**
    ```bash
-   https://github.com/Brilly-Jalu/us-education-dashboard.git
+   gh repo clone Brilly-Jalu/us-education-dashboard
    
 2. **Install dependencies**
    ```bash
@@ -50,6 +50,6 @@ This project is a high-level analytics dashboard designed to transform complex i
    
 3. **Clone the repository**
    ```bash
-   streamlit run dashboard.py
+   streamlit run app.py
 
 
