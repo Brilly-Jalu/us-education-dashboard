@@ -146,7 +146,7 @@ local_css()
 def load_data():
     try:
         # Standard relative path
-        df = pd.read_csv("us-education-dashboard-main\Kmeans_assignment_data.csv")
+        df = pd.read_csv("Kmeans_assignment_data.csv")
     except FileNotFoundError:
         st.error("⚠️ Sumber Data Hilang. Pastikan 'Kmeans_assignment_data.csv' berada di direktori utama.")
         return pd.DataFrame()
@@ -470,3 +470,4 @@ st.markdown(
     """, 
     unsafe_allow_html=True
 )
+
