@@ -218,7 +218,7 @@ else:
     # --- BAGIAN JUDUL ---
     c_title, c_logo = st.columns([5, 1])
     with c_title:
-        st.markdown(f"<h1 style='margin-bottom:0;'>🇮🇩 Matriks Kinerja Pendidikan Nasional</h1>", unsafe_allow_html=True)
+        st.markdown(f"<h1 style='margin-bottom:0;'>Matriks Kinerja Pendidikan Nasional</h1>", unsafe_allow_html=True)
         st.markdown(f"<p style='color:{SECONDARY}; font-weight:600; font-size: 1.1em;'>Briefing Intelijen Strategis untuk Menteri Pendidikan</p>", unsafe_allow_html=True)
         st.markdown("*Briefing rahasia mengenai aksesibilitas institusional, efisiensi fiscal, dan hasil pendidikan.*")
 
@@ -470,4 +470,5 @@ st.markdown(
     """, 
     unsafe_allow_html=True
 )
+
 
